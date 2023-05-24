@@ -1,13 +1,16 @@
-// Ejercicio "a" del área de un rectángulo
+// Ejercicio "a"
 
-let base1 = 5;
-let altura1 = 3;
-let area1 = base1 * altura1;
-console.log (area1);
+let base = 5;
+let altura = 3;
+let area = base * altura;
+console.log (area);
 
-// Ejercicio "b" del área de un rectángulo
+// Ejercicio "b"
 
-let base2 = 12.5;
-let altura2 = 5.3;
-let area2 = base2 * altura2;
-console.log (area2);
+base = 12.5;
+altura = 5.3;
+area = base * altura;
+console.log (area);
+
+
+
