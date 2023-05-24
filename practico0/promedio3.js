@@ -1,27 +1,20 @@
 // Ejercicio "a" promedio
-
 let num1 = 5;
 let num2 = 7;
 let num3 = 9;
-let promedio1 = (num1 + num2 + num3) / 3;
-console.log (promedio1);
-
+let promedio = (num1 + num2 + num3) / 3;
+console.log (promedio);
 
 // Eercicio "b" promedio
-
 num1 = -2;
 num2 = -3;
 num3 = -8;
-let promedio2 = (num1 + num2 + num3) / 3;
-console.log(promedio2);
-
+promedio = (num1 + num2 + num3) / 3;
+console.log(promedio);
 
 // Ejercicio "c" promedio
-
 num1 = -1.2;
 num2 = 5.3;
 num3 = -3.3;
-let promedio3 = (num1 + num2 + num3) / 3;
-console.log(promedio3);
-
-
+promedio = (num1 + num2 + num3) / 3;
+console.log(promedio);
