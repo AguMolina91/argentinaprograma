@@ -9,17 +9,19 @@ console.log (promedio1);
 
 // Eercicio "b" promedio
 
-let num4 = -2;
-let num5 = -3;
-let num6 = -8;
-let promedio2 = (num4 + num5 + num6) / 3;
+num1 = -2;
+num2 = -3;
+num3 = -8;
+let promedio2 = (num1 + num2 + num3) / 3;
 console.log(promedio2);
 
 
 // Ejercicio "c" promedio
 
-let num7 = -1.2;
-let num8 = 5.3;
-let num9 = -3.3;
-let promedio3 = (num7 + num8 + num9) / 3;
+num1 = -1.2;
+num2 = 5.3;
+num3 = -3.3;
+let promedio3 = (num1 + num2 + num3) / 3;
 console.log(promedio3);
+
+
