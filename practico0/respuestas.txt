@@ -1,0 +1,28 @@
+Respuestas del Práctico N0
+___________________________
+
+Ejercicio 1, inciso a) la respuesta es = 8
+
+Ejercicio 1, inciso b) la respuesta es = 204
+
+------------------------------------------------------------
+
+Ejercicio 2, inciso a) la respuesta es = 15
+
+Ejercicio 2, inciso b) la respuesta es = 66,25
+
+------------------------------------------------------------
+
+Ejercicio 3, inciso a) la respuesta es = 10
+
+Ejercicio 3, inciso b) la respuesta es = 23,88888888888889
+
+------------------------------------------------------------
+
+Ejercicio 4, inciso a) la respuesta es = 7
+
+Ejercicio 4, inciso b) la respuesta es = -4,333333333333333
+
+Ejercicio 4, inciso c) la respuesta es = 0,2666666666666666
+
+------------------------------------------------------------
